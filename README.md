@@ -4,3 +4,5 @@ This repo serves as an example app for the purposes of demonstrating unit and en
 
 ## My Project
 workflow-myCopy
+
+## Install
